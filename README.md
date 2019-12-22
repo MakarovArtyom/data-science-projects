@@ -1,7 +1,7 @@
 # Data Science Portfolio projects
 
 This repository contains Jupyter notebooks for Data Science portfolio site: https://makarovartyom.github.io/
-Project list: 
+Project list: <br>
 
 * [AB Test: Traditional and Bayesian AB Testing](https://makarovartyom.github.io/ab-testing/);
 * [NYC taxi fare predictios](https://makarovartyom.github.io/taxi_fare/);
